@@ -1,0 +1,19 @@
+letter_id,language,method,error_type,severity,description
+01,uk,baseline,terminology,1,"""штраф за прострочення платежу"" instead of glossary term ""пеня"""
+01,uk,baseline,unnatural,1,"""Строк оплати спливав"" - should be ""був"""
+01,uk,baseline,omission_or_addition,1,AI added a note after the email that it checked the VAT calculation
+04,uk,baseline,terminology,1,"""комерційна пропозиція"" instead of glossary term ""кошторис"""
+02,es,baseline,unnatural,1,"""importe íntegro"" sounds unnatural"
+02,es,baseline,omission_or_addition,1,AI added a note after the email that it adapted the amounts to Spanish format
+03,es,baseline,unnatural,1,"""a más tardar el 5 de abril"" sounds unnatural"
+04,es,baseline,omission_or_addition,2,AI added notes about its translation choices after the email
+01,ru,baseline,omission_or_addition,1,AI added a note after the email about the instruction line and the VAT check
+01,ru,baseline,register,1,"abbreviation ""г-н"" instead of ""господин"""
+02,ru,baseline,unnatural,1,"""утром"" - better ""в первой половине дня"""
+02,ru,baseline,omission_or_addition,1,AI added a note after the email that it checked the discount arithmetic
+02,ru,baseline,register,1,"abbreviation ""г-жа"" instead of ""госпожа"""
+04,ru,baseline,omission_or_addition,1,"AI added notes about ""payslips"" and ""VAT"" after the email"
+02,uk,glossary,unnatural,1,"""волієте"" is almost never used"
+03,uk,glossary,register,1,"wrong vocative case of the name: ""Даніеле"" instead of ""Даніелю"" (the style guide example was wrong)"
+03,uk,glossary,omission_or_addition,1,"""small"" receipts translated as ""чеки"" (the word ""дрібні"" is lost, because the glossary has ""small receipt = чек""); the meaning for the client does not change: what matters is the NIF, not the size"
+01,ru,glossary,unnatural,1,"tautology ""на счёт, указанный в счёте"""

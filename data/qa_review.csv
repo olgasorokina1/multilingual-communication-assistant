@@ -1,0 +1,34 @@
+id,letter_id,language,qa_category,exact_words,qa_said,verdict
+1,01,es,terminology,Atentamente,glossary says Un cordial saludo,rule_only
+2,01,es,unnatural,haga caso omiso de este recordatorio,sounds curt for a polite reminder,valid
+3,02,es,register,Atentamente,glossary says Un cordial saludo,rule_only
+4,03,es,terminology,Los tickets pequeños,glossary says tique,rule_only
+5,03,es,register,Un cordial saludo,too formal for a friendly email (Best wishes),false
+6,03,es,omission_or_addition,Las fotos valen si se ven bien,"se ven bien = look good, not easy to read",false
+7,04,es,numbers_dates,antes del viernes 15 de mayo,by Friday = Friday is allowed; antes del = one day earlier,false
+8,04,es,register,Un cordial saludo,too formal for a friendly email (Best wishes),false
+9,04,es,omission_or_addition,list 1-2-3 without numbers,numbering lost,false
+10,01,uk,terminology,рахунок-фактура,glossary says рахунок,rule_only
+11,01,uk,terminology,квитанцію про оплату,glossary says підтвердження оплати,rule_only
+12,01,uk,omission_or_addition,№ 2026-0148,№ is not in the source,rule_only
+13,02,uk,unnatural,На знак компенсації,"на знак suits an apology, not compensation",rule_only
+14,02,uk,unnatural,Якщо Ви надаєте перевагу скасуванню замовлення,stiff and bureaucratic,rule_only
+15,02,uk,terminology,повернемо Вам повну суму,glossary says повернення коштів,rule_only
+16,03,uk,terminology,рахунки-фактури,glossary says рахунок,rule_only
+17,03,uk,register,З найкращими побажаннями,sounds like a greeting card,rule_only
+18,03,uk,unnatural,господарські витрати,accounting jargon,valid
+19,03,uk,omission_or_addition,list without bullets,bullets lost,false
+20,04,uk,terminology,Щомісячна вартість,glossary says щомісячна плата,rule_only
+21,01,ru,terminology,квитанцию об оплате,glossary says подтверждение оплаты,rule_only
+22,01,ru,register,если вы уже оплатили,Вы should be capitalised,rule_only
+23,01,ru,unnatural,"на счёт, указанный в счёте",счёт twice: account and invoice,rule_only
+24,01,ru,omission_or_addition,пеню за просрочку платежа,за просрочку платежа is added; пеня already means this,rule_only
+25,01,ru,omission_or_addition,Срок оплаты истёк,истёк is added,rule_only
+26,03,ru,terminology,счета-фактуры,glossary says счёт,rule_only
+27,03,ru,terminology,Небольшие чеки,small is translated twice,false
+28,03,ru,unnatural,полученные вами за деловые расходы,"word-for-word, not natural",rule_only
+29,04,ru,omission_or_addition,Благодарю вас за уделённое время,today is missing,rule_only
+30,04,ru,omission_or_addition,list without numbers,numbering lost,false
+31,04,ru,omission_or_addition,вот наши следующие шаги,наши is added,false
+32,04,ru,register,Благодарю вас,stiffer than the friendly source,false
+33,04,ru,unnatural,вот наши следующие шаги,better дальнейшие шаги,rule_only

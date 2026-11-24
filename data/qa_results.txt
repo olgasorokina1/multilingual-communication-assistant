@@ -1,0 +1,144 @@
+===== letter-01_es_baseline =====
+
+terminology: "Atentamente". The glossary gives "Un cordial saludo" for "Kind regards". The register is correct, but the closing isn't the glossary term.
+unnatural: "haga caso omiso de este recordatorio". The phrase is grammatically correct, but it sounds curt and dismissive for a polite payment reminder. In a business email, people would soften it.
+
+Everything else matches the source: the amounts (580,80 € = 480,00 € + 21 % IVA), the dates, the 10 días hábiles and the 25,00 € fee. The formal "usted" register and the "Estimado Sr. Ortega:" greeting are also correct.
+
+
+===== letter-02_es_baseline =====
+
+Problems found: 1
+
+register: "Atentamente," is the closing, but the glossary says "Kind regards" = "Un cordial saludo".
+
+Everything else checks out:
+
+Numbers and dates: 10 June, 14 June 2026, 12 June, 10 %, 1.089,00 € and 1.210,00 € all match the source, and the discount math is right.
+Terminology: pedido, entrega, descuento, cancelar and reembolsaremos are all consistent with the glossary.
+Address and tone: "Estimada Sra. Vidal:" with the formal "usted" is correct.
+Omissions and additions: nothing is missing or added in the email.
+Naturalness: the phrasing reads like a real Spanish business email.
+
+The note after the translation ("Adapté los importes...") isn't part of the email, so I didn't count it. Make sure it doesn't get sent to Ms. Vidal.
+
+
+===== letter-03_es_baseline =====
+
+terminology: "Los tickets pequeños". The glossary term for "small receipt (ticket)" is "tique", so "tickets" is not the approved word.
+register (minor, borderline): "Un cordial saludo". The source closes with the warm, informal "Best wishes", and the rest of the email is informal (Hola, tú, ¡y dime...). "Un cordial saludo" is the glossary equivalent of "Kind regards", so it is more formal than the source and than the rest of the translation.
+omission_or_addition (minor): "Las fotos valen si se ven bien". The source says photos are fine if they are "easy to read". "Se ven bien" means they look good, not that they are legible, so the meaning shifts slightly.
+
+I found no problems in numbers_dates (31 March, 5 April, January–March and "three months" all match) or in the other glossary terms, and I found nothing unnatural.
+
+
+===== letter-04_es_baseline =====
+
+1. numbers_dates
+
+Exact words: "antes del viernes 15 de mayo"
+The source says "by Friday, 15 May", so Friday the 15th is still allowed. "Antes del" means before that day, so the deadline moves a day earlier.
+
+2. register
+
+Exact words: "Un cordial saludo,"
+The source closes with the warm, informal "Best wishes", and the rest of the translation uses tú ("Hola, Sergio", "tu tiempo", "¡Que tengas…!"). This closing is noticeably more formal than the rest of the email. The glossary entry is for "Kind regards", which isn't what the source says.
+
+3. omission_or_addition
+
+Exact words: the whole block starting "Notas rápidas:" (the three notes about "tú", "local" and the € format)
+None of this is in the source. If the translation is sent as is, the translator's comments go to the client.
+
+4. omission_or_addition (minor, possibly just lost formatting)
+
+Exact words: the three action items starting "Te enviaré…", "Tú me enviarás…" and "Nos volveremos a reunir…"
+The source numbers them 1, 2 and 3. The translation shows them as plain lines with no numbering.
+
+No terminology or other numbers_dates problems. The glossary terms (presupuesto, nóminas, contrato de alquiler, cuota mensual, IVA, contrato) are correct. The amount, the dates and the time match the source, and 15 May and 20 May do fall on a Friday and a Wednesday in 2026.
+
+
+===== letter-01_uk_baseline =====
+
+Problems found:
+
+terminology: "рахунок-фактура" (also "рахунку-фактурі"). The glossary says invoice = рахунок. This also makes "на рахунок, зазначений у рахунку-фактурі" read better than it would with a bare "рахунок", where the bank account and the invoice would be the same word.
+terminology: "Строк оплати". The glossary says due date = термін оплати.
+terminology: "штраф за прострочення платежу". The glossary says late payment fee = пеня.
+terminology: "квитанцію про оплату". The glossary says receipt (proof of payment) = підтвердження оплати.
+omission_or_addition: "№" in "рахунок-фактура № 2026-0148". The source has no "No." before the invoice number.
+omission_or_addition: the last two lines, "Я переклала українською. Якщо потрібна ще й російська версія, скажіть." and "Суми я перевірила: …". They are not in the source email and are not part of the translation. They should be removed if the text is sent to the client.
+
+No problems found in the other categories. The numbers and dates match the source, and the amount checks out (480,00 × 1.21 = 580,80). The greeting "Шановний пане Ортего" and the closing "З повагою" use the right formal register.
+
+
+===== letter-02_uk_baseline =====
+
+unnatural: "На знак компенсації". "На знак" means "as a sign of", which suits an apology but not compensation.
+unnatural: "Якщо Ви надаєте перевагу скасуванню замовлення". This is stiff and bureaucratic, and a native writer wouldn't phrase "if you prefer to cancel" this way.
+terminology (minor): "повернемо Вам повну суму". The glossary term for refund is "повернення коштів", and it isn't used here.
+
+I checked the numbers and dates (10 June, 14 June 2026, 12 June, 10%, €1,089.00, €1,210.00) and they all match the source. The register is consistent and formal, and the closing "З повагою" is correct. Nothing is missing, and the only addition is the harmless "№" before the order number.
+
+
+===== letter-03_uk_baseline =====
+
+terminology: "рахунки-фактури" (used twice). The glossary gives invoice = "рахунок".
+register: "З найкращими побажаннями". It matches "Best wishes" literally, but it reads like a greeting card. A business email normally closes with the glossary form "З повагою". This is minor.
+unnatural: "господарські витрати". For "business expenses" it sounds like accounting jargon for general overheads. Something like "витрати, пов'язані з вашою діяльністю" is how people would say it. This is minor.
+omission_or_addition: the bullet markers are missing from the three-item list, so it runs together with the question above it. This may only be a formatting loss.
+
+No problems with numbers or dates (31 березня, 5 квітня, "три місяці" all match). Nothing was omitted or added in the content.
+
+===== letter-04_uk_baseline =====
+
+terminology: "комерційну пропозицію". The glossary gives "кошторис" for "quote".
+terminology: "Щомісячна вартість". The glossary gives "щомісячна плата" for "monthly fee".
+
+The other categories are fine. The dates, weekdays, time and amount match the source, nothing is missing or added, and the register is consistent.
+
+
+===== letter-01_ru_baseline =====
+
+terminology: «квитанцию об оплате». The glossary term for a receipt (proof of payment) is «подтверждение оплаты».
+register: «если вы уже оплатили». In a formal letter to a named person, «Вы» is normally capitalized.
+unnatural: «на счёт, указанный в счёте». «Счёт» is used twice in one phrase, once for the bank account and once for the invoice, which reads clumsily and can confuse the reader.
+omission_or_addition: «пеню за просрочку платежа». «За просрочку платежа» is not in the source, and «пеня» already means a late payment fee.
+omission_or_addition: «Срок оплаты истёк 4 марта 2026 г.». The source says "The due date was 4 March 2026". «Истёк» (expired) is added, and it shifts the meaning slightly. This one is minor.
+omission_or_addition: the last two sentences, «Строку «Translate this email into Russian» я принял за инструкцию и в перевод не включил. Сумма сходится: 480,00 € плюс 21% НДС дают 580,80 €.» This is the translator's commentary, not part of the source. The source has no such line, and the note should be removed from the email text.
+
+No problems found in numbers_dates. The invoice number, both dates, €580.80, €480.00, 21%, 10 business days and €25.00 all match the source.
+
+
+===== letter-02_ru_baseline =====
+
+omission_or_addition: "Я проверила арифметику: 10 % от 1 210 € дают 121 €, то есть 1 089 €, как и в оригинале." This sentence isn't in the source. It's a translator's note, and it shouldn't appear in a message to the customer.
+
+I found no other problems. The numbers and dates match the source (10 June, 14 June 2026, 12 June, 10%, €1,089.00, €1,210.00). The 10% discount arithmetic is correct. The glossary terms are used correctly (заказ, доставка, скидка, отменить, С уважением). The register is appropriate: formal "Уважаемая г-жа Видаль!" and "вы" in lowercase.
+
+
+===== letter-03_ru_baseline =====
+
+terminology: "счета-фактуры" (twice, in both bullet points). The glossary term for "invoice" is "счёт".
+terminology: "Небольшие чеки". The glossary term for "small receipt (ticket)" is already "чек", so "небольшие" translates "small" a second time.
+unnatural: "полученные вами за деловые расходы". "Деловые расходы" is a word-for-word rendering of "business expenses", and "получены за расходы" is not how people phrase this in a Russian business email.
+
+The other checks found nothing:
+
+Numbers and dates: 31 March, 5 April, January to March and three months all match the source.
+Register: the greeting and the closing match the source's friendly tone.
+Glossary terms: the other glossary terms are used correctly.
+
+
+===== letter-04_ru_baseline =====
+
+terminology: «коммерческое предложение». The glossary gives quote = «смета».
+omission_or_addition: «Благодарю вас за уделённое время». "today" is missing from "Thank you for your time today". It's minor, since the subject line has «сегодняшнюю».
+omission_or_addition: the numbered list (1., 2., 3.) is gone. The three steps run as unnumbered lines starting with «Я отправлю…», «Вы пришлёте…», «Мы снова встретимся…».
+omission_or_addition: «вот наши следующие шаги». "наши" is added. The source only says "the next steps".
+register: «Благодарю вас за уделённое время». The source is a warm "Thank you" in a friendly "Hi Sergio" email. «Благодарю» is stiffer than the «Спасибо» in the subject line and the casual «Было здорово». The tone is inconsistent. The «Здравствуйте» and «вы» address is fine.
+unnatural: «вот наши следующие шаги». Russian business emails usually say «дальнейшие шаги» or «о чём договорились».
+
+Numbers, dates, the amount (€120.00 + VAT), the weekdays and the time (9:30) are all correct.
+
+The translator's note at the end isn't part of the email. It also suggests terms outside the glossary: «нóмины» for the payslips and «IVA» for VAT, where the glossary says «расчётный листок» and «НДС».
+
